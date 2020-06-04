@@ -1,3 +1,11 @@
-.container {
+#minor {
+  display: none;
+}
+
+#prereg {
+  display: none;
+}
+
+#adult {
   display: none;
 }
